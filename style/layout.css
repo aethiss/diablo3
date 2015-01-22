@@ -3,7 +3,7 @@ html,body{ margin:0; padding:0; height:100%; width:100%; }
 /*font */
 @font-face {
     font-family: 'ExocetFont'; /*a name to be used later*/
-    src: url('/fonts/Exocet1.ttf')  format('truetype')/* Safari, Android, iOS */
+    src: url('fonts/Exocet1.ttf')  format('truetype')/* Safari, Android, iOS */
     /* src: url('http://domain.com/fonts/font.ttf'); /*URL to font*/
     /*url('/fonts/Exocet.ttf.eot'); *//* IE9 Compat Modes */
     /*src: url('webfont.eot?#iefix') format('embedded-opentype'), *//* IE6-IE8 */
