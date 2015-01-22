@@ -88,7 +88,7 @@ define([
         $(document).keyup(function(e) {
           //if (e.keyCode == 13) $('.save').click();     // enter
           //if (e.keyCode == 27) window.location.href = "http://local.diablo3.com:8888/" // esc
-          if (e.keyCode == 27) window.location.href = "http://95.85.4.74/diablo3/" // esc - server version
+          if (e.keyCode == 27) window.location.href = "http://95.85.4.74"; // esc - server version
         });
 
         this.initializeRouter();
