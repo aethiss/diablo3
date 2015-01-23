@@ -31,17 +31,21 @@ html,body{ margin:0; padding:0; height:100%; width:100%; }
     background-color: black;
 }
 
+.wraploader {
+    text-align: center;
+    height: 100%;
+}
 
 .imageloader {
     position: relative;
-    left: 35%;
+    /*left: 35%;*/
     top: 30%;
 }
 
 .loader {
     color: white;
     font-size:18px;
-    text-align: center;
+    /*text-align: center;*/
     font-family: 'ExocetFont';
     position: relative;
     /*left: 10%;*/
